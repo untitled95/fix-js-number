@@ -19,7 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/untitled95/fix-js-number.git"
   },
-  "keywords": ["js", "number"],
+  "keywords": [
+    "js",
+    "number"
+  ],
   "author": "untitled95",
   "license": "ISC",
   "devDependencies": {
